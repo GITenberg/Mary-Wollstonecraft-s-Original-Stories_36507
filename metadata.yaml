@@ -1,0 +1,57 @@
+_repo: Mary-Wollstonecraft-s-Original-Stories_36507
+_version: 0.1.0
+alternative_title: Original stories from real life
+contributor:
+  illustrator:
+    agent_name: Blake, William
+    alias: Blake, W. (William)
+    birthdate: 1757
+    deathdate: 1827
+    gutenberg_agent_id: '295'
+    url: http://www.gutenberg.org/2009/agents/295
+    wikipedia: http://en.wikipedia.org/wiki/William_Blake
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Cresswick, Mr.
+    - Godwin, Mary Wollstonecraft
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
+  editor:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2011-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction, English'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Virtues -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Mary Wollstonecraft's Original Stories
+url: http://www.gutenberg.org/ebooks/36507
