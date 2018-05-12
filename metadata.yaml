@@ -35,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/818
     wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36507#Mary-Wollstonecraft-s-Original-Stories
 gutenberg_issued: '2011-06-24'
 gutenberg_type: Text
 identifiers:
